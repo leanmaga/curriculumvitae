@@ -1,0 +1,78 @@
+body.dark .container {    
+    transition: .5s ease all;
+    background:  #1f1f1f;
+}
+body.dark .container .left_Side {
+    transition: .5s ease all;
+    background: #121212;   
+}
+body.dark .contactInfo ul li .icon {
+    transition: .5s ease all;
+    color: #fe5880;
+}
+body.dark .contactInfo ul li span {
+    transition: .5s ease all;
+    color: #f2f2f2;
+}
+body.dark .contactInfo ul li a {
+    transition: .5s ease all;
+    color: #f2f2f2;
+}
+body.dark .contactInfo.education h5 {
+    transition: .5s ease all;
+    color: #fe5880;
+  
+}
+body.dark .contactInfo.education h4 {
+    transition: .5s ease all;
+    color: #f2f2f2;
+   
+}
+body.dark .contactInfo.language .percent {
+    transition: .5s ease all;
+    background: #f2f2f2;
+}
+body.dark .contactInfo.language .percent div {
+    transition: .5s ease all;
+    background: #fe5880;
+}
+----------------------------------------------------
+body.dark .container .right_Side {
+    transition: .5s ease all;
+}
+body.dark .title2 {
+    transition: .5s ease all;
+    color: #fe5880;
+}
+body.dark p{
+    transition: .5s ease all;
+    color: #f2f2f2;
+}
+body.dark .about .box .year_company h5 {
+    transition: .5s ease all;
+    color: #f2f2f2;
+}
+body.dark .about .box .text h4 {
+    transition: .5s ease all;
+    color: #fe5880;
+}
+body.dark .skills .box h4 {
+    transition: .5s ease all;
+    color: #f2f2f2;
+}
+body.dark .skills .box .percent {
+    transition: .5s ease all;
+    background: #f2f2f2;
+}
+body.dark .skills .box .percent div {
+    transition: .5s ease all;
+    background: #fe5880;
+}
+body.dark .interest ul li {
+    transition: .5s ease all;
+    color: #f2f2f2;
+}
+body.dark .interest ul li .fa-solid {
+    transition: .5s ease all;
+    color: #fe5880;
+}
