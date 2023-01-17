@@ -1,9 +1,9 @@
-#Curriculum Vitae
+## Curriculum Vitae
 Este es mi Curriculum Vitae, desarrollado en HTML, CSS y JavaScript. cuenta con un modo oscuro para una mejor experiencia de usuario.
 
 ---
 
-###Características
+### Características
 
 
 * :computer: Diseño responsive para una mejor visualización en dispositivos móviles
@@ -19,7 +19,7 @@ Este es mi Curriculum Vitae, desarrollado en HTML, CSS y JavaScript. cuenta con 
 
 ---
 
-###Servicios
+### Servicios
 
 
 Ofrezco mis servicios como desarrollador Front-end, especializado en:
