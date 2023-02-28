@@ -29,7 +29,8 @@ body.dark{
 }
 .container .left_Side{
     position: relative;
-    background: #003147;
+    background: background: rgb(241,70,252);
+    background: linear-gradient(90deg, rgba(241,70,252,1) 0%, rgba(3,2,8,1) 51%, rgba(174,70,252,1) 100%);
     padding: 40px;
 }
 .profileText{
@@ -100,7 +101,7 @@ body.dark{
     display: inline-block;
     width: 18px;
     font-size: 0.8em;
-    color: #03a9f4;
+    color: #000000;
 }
 .contactInfo ul li span{
     color: #fff;
@@ -116,7 +117,7 @@ body.dark{
     margin-bottom: 15px;
 }
 .contactInfo.education h5{
-    color: #03a9f4;
+    color: #000000;
     font-weight: 500;
 }
 .contactInfo.education h4{
@@ -136,7 +137,7 @@ body.dark{
     top: 0;
     left: 0;
     height: 100%;
-    background: #03a9f4;
+    background: #000000;
 }
 
 
